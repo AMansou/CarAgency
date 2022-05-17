@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1555351396 source:c:\users\ahmad\desktop\dp2improved\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1555359888 source:c:\users\ahmad\dropbox\uni\data structures\y2s2 projects\dp2improved\main.c
+	"functions.h"
+
+1555359844 c:\users\ahmad\dropbox\uni\data structures\y2s2 projects\dp2improved\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1555359888 source:c:\users\ahmad\dropbox\uni\analysis of algorithms\data structures y2s2 projects\dp2improved\main.c
+	"functions.h"
+
+1555359844 c:\users\ahmad\dropbox\uni\analysis of algorithms\data structures y2s2 projects\dp2improved\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1555356288 source:c:\users\ahmad\dropbox\uni\comp sci\data structures-analysis of algorithms\data structures y2s2 projects\dp2improved\main.c
+	"functions.h"
+
+1555356244 c:\users\ahmad\dropbox\uni\comp sci\data structures-analysis of algorithms\data structures y2s2 projects\dp2improved\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
